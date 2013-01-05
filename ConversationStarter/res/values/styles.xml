@@ -17,4 +17,12 @@
         <!-- All customizations that are NOT specific to a particular API-level can go here. -->
     </style>
 
+    
+    
+    <style name="Theme.Splash" parent="android:Theme">
+		<item name="android:windowBackground">@drawable/stark</item>
+		<item name="android:windowNoTitle">true</item>
+  	</style>
+  	
+    
 </resources>

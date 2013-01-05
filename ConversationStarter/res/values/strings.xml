@@ -4,5 +4,28 @@
     <string name="app_name">Conversation Starter</string>
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
+    <string name="categories">Categories</string>
+    <string name="random">Random</string>
+    <string name="splash">this is the splash page</string>
+    
+    
+    <string-array name="test_array">
+        
+        <item>lol</item>
+        <item>treal</item>
+        <item>whats good my nigga</item>
+        <item>lol2</item>
+        <item>h
+            
+            haha
+            
+            hasdf
+            
+            </item>
+        
+        
+    </string-array>
+    
+    
 
 </resources>
