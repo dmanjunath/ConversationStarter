@@ -10,7 +10,7 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.widget.RelativeLayout;
 
-//Dheeraj was here
+//Dheeraj was here as;dlkfjals;dkfj
 public class SplashPage extends MainActivity {
 
 	//how long until we go to the next activity
